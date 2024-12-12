@@ -37,6 +37,6 @@
 </p>
 
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="273em" src="https://leetcard.jacoblin.cool/khalidmahamud?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/khalidmahamud/cf-stats/main/output/light_card.svg" />
 </p>
