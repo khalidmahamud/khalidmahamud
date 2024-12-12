@@ -35,3 +35,6 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidmahamud&hide_progress=false&theme=radical">
 </p>
+
+![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
