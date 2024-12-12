@@ -35,5 +35,3 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidmahamud&hide_progress=false&theme=radical">
 </p>
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=hash_hound)
