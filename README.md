@@ -36,5 +36,7 @@
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidmahamud&hide_progress=false&theme=radical">
 </p>
 
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/khalidmahamud/cf-stats/main/output/light_card.svg" />
+</p>
