@@ -25,7 +25,7 @@
 
 </p>
 
-<picture>
+<picture align=center>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=khalidmahamud&theme=dark&show_icons=true">
     <img align=center width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture>
@@ -33,6 +33,7 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidmahamud&hide_progress=false&theme=radical">
 </p>
+
 
 
 
