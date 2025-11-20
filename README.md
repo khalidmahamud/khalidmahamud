@@ -1,8 +1,10 @@
 <h2 align="center">Hey there! I'm Khalid Bin Mahamud 👋</h2>
 <p align="center">I'm a Computer Science and Engineering student. I am passionate about anything coding. Right now, I'm diving into React for frontend development. And hey, I've got a keen interest in machine learning too!</p>
 
-<p align="center"><a href="https://www.facebook.com/khalid.mahamud.41/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/khalid-bin-mahamud-a59232230/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/">
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=khalidmahamud&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+</picture>
 
 <p align=center>
   <a href="https://github.com/khalidmahamud?tab=repositories">
@@ -35,3 +37,4 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidmahamud&hide_progress=false&theme=radical">
 </p>
+
