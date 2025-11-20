@@ -1,11 +1,6 @@
 <h2 align="center">Hey there! I'm Khalid Bin Mahamud 👋</h2>
 <p align="center">I'm a Computer Science and Engineering student. I am passionate about anything coding. Right now, I'm diving into React for frontend development. And hey, I've got a keen interest in machine learning too!</p>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=khalidmahamud&theme=dark&show_icons=true">
-    <img width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
-</picture>
-
 <p align=center>
   <a href="https://github.com/khalidmahamud?tab=repositories">
     <img src="https://badges.pufler.dev/repos/khalidmahamud?style=flat-square&color=black&logo=github">
@@ -30,12 +25,14 @@
 
 </p>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=khalidmahamud&show_icons=true&theme=radical">
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=khalidmahamud&theme=dark&show_icons=true">
+    <img alight="center" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+</picture>
 
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidmahamud&hide_progress=false&theme=radical">
 </p>
+
 
 
